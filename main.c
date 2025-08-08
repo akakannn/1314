@@ -1,12 +1,7 @@
-#include <stdio.h>
+#include <studio.h>
 int main()
 {
-	int score = 89;
-	if score >= 90)
-	printf("A")
-	else
-	printf("B")
-	
+	printf("Hello, world! \n");
 	getchar();
 	return 0;
 }
